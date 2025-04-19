@@ -38,11 +38,6 @@ A full-stack **Task Management Application** built using the **MERN** (MongoDB, 
 
 ### 1. Clone the Repository
 
-```sh
-git clone https://github.com/Kirissh/TaskManager.git
-```
-
----
 
 ### 2. Backend Setup
 
