@@ -1,0 +1,6 @@
+Features
+✅ User Authentication – Secure JWT-based authentication for user accounts.
+✅ Task Management – Perform Create, Read, Update, Delete (CRUD) operations on tasks.
+✅ Authorization – Users can only manage their own tasks.
+✅ Pagination – Efficient task listing with pagination for better performance.
+✅ Input Validation – Secure and structured input handling using Validator.
